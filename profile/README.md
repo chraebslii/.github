@@ -1,51 +1,35 @@
 # Hi there 👋, welcome to chraebslii
 
-## Hi, I'm [**chraebsli**](https://github.com/chraebsli), the owner of this organization. This organization exists for school/ school projects
+## Hi, I'm [**chraebsli**](https://github.com/chraebsli), the owner of this organization. This organization exists for private/ work or school projects
 
 ---
 
 ## currently working on
 
-1. [Wordle Guesser](#wordle-guesser)
-2. [Netlify](#netlify)
-3. [Fischlehrpfad Burgdorf](#fischlehrpfad-burgdorf)
+1. Todo App
+2. personal Website
 
-### Wordle guesser
+## Todo App
 
-_Its a Website for helping guessing words for the [Wordle Game](https://www.nytimes.com/games/wordle/)_
+Todoapp is a advanced todo list app. It is written in **Typescript** and **PHP**. It is deployed on **Heroku**.  
+With this project I want to learn project management and the tools Github provides for this. I also want to learn TypeScript/PHP and MySQL.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+Later I want to use React and Node.js.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
+[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true?&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5)](https://github.com/chraebslii/todoapp)
 
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=wordle-guesser&show_owner=true)](https://github.com/chraebslii/netlify)
+## personal Website
 
-### Netlify
+This is my personal website. It is written in **React** and **TypeScript**. It will be deployed later on **Netlify**.  
+I want to learn React and TypeScript and to create my personal website.
 
-_Netlify is the repository for my personal web projects. They are all hosted on_
-[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify)](https://www.netlify.com/)
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
-
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=netlify&show_owner=true)](https://github.com/chraebslii/netlify)
-
-### Fischlehrpfad Burgdorf
-
-_Fischlehrpfad Burgdorf is a web project. We are building a website for visitors of the "Fischlehrpfad" in Burgdorf, CH._
-
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP)
-![TWIG](https://img.shields.io/badge/-TWIG-black?style=for-the-badge&logo=TWIG)
-
-![GRAV](https://img.shields.io/badge/-GRAV-black?style=for-the-badge&logo=GRAV)
-
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=Fischlehrpfad-Burgdorf&show_owner=true)](https://github.com/chraebslii/Fischlehrpfad-Burgdorf)
